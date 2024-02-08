@@ -4,7 +4,7 @@
 <p><b>&#9487</b></p>
 
 <p align="center"><samp>
-Software Engineer • Cloud Engineer
+Backend & Machine Learning Enthusiast
 <br>
 Currently Working as <b><a href="">Freelancer</a></b>
 </samp></p>
@@ -35,6 +35,10 @@ Currently Working as <b><a href="">Freelancer</a></b>
     <p align="center">════════<br></p>
 </samp>
   </p>
+   ### Stats:
+<p align=left> <img src=https://komarev.com/ghpvc/?username=fakhriyalfians alt=fakhriyalfians /> </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhriyalfians&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2&hide=css,scss,html" height="150" alt="languages graph"  />
 </details>
   
 </details>
