@@ -29,8 +29,8 @@ Currently Working as <b><a href="">Freelancer</a></b>
      </p>
      <p id="med"><b><samp>My Github Stats</samp></b></p>
    <p align=center> <img src=https://komarev.com/ghpvc/?username=falachyusuf alt=falachyusuf /> </p>
-     <img src="https://github-readme-stats.vercel.app/api?username=falachyusuf&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhriyalfians&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2&hide=css,scss,html" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=falachyusuf&locale=en&hide_title=false&layout=compact&card_width=465&langs_count=6&theme=dracula&hide_border=true&order=2&hide=css,scss,html"  alt="languages graph"/><br>
+     <img src="https://github-readme-stats.vercel.app/api?username=falachyusuf&show_icons=true&theme=dracula&hide_border=true"></img> 
 </details>
     <p align="center">════════<br></p>
     <p align="center"><b><samp>"When you stop learning, you stop growing." <br>- Albert Einstein</samp></b></p>
